@@ -10,7 +10,7 @@ Tic-tac-toe:
 *************************************************************************
 
 Description:
-  - the tool allows you to play tic tac toe on maya (python 2.7);
+  - The tool allows you to play tic tac toe on maya (python 2.7);
   - Tool for Maya;
 
 *************************************************************************
