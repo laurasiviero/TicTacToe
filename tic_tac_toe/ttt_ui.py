@@ -26,7 +26,6 @@ import maya.cmds as cmds
 
 
 import ttt_enemy_functions as ttt
-reload(ttt)
 
 
 def tic_tac_toe_ui(USERPATH):
