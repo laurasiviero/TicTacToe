@@ -32,9 +32,11 @@ Instructions:
 import sys
 
 USERPATH = r"C:\Users\YOU\Documents\maya\20XX\scripts\tic_tac_toe"
+
 sys.path.append(USERPATH)
 
 import ttt_ui
+
 ttt_ui.tic_tac_toe_ui(USERPATH)
  
  *************************************************************************
