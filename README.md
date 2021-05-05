@@ -22,7 +22,7 @@ Description:
 *************************************************************************
 
 Instructions:
-   - Put the useless_ui folder in the folder: 
+   - Put the tic_tac_toe folder in the folder: 
      C:\Users\YOU\Documents\maya\20XX\scripts
    - Extract everything in the same location;
    - Launch maya;
@@ -31,7 +31,7 @@ Instructions:
 *************************************************************************
 import sys
 
-USERPATH = r"C:\Users\YOU\Documents\maya\20XX\scripts\TicTacToe"
+USERPATH = r"C:\Users\YOU\Documents\maya\20XX\scripts\tic_tac_toe"
 sys.path.append(USERPATH)
 
 import ttt_ui
@@ -40,6 +40,6 @@ ttt_ui.tic_tac_toe_ui(USERPATH)
  *************************************************************************
  
  - Feel free to add the code to your shelf;
- - Replace the default shelf icon with the appropriate one: TicTacToe\tic_tac_toe_icons\tic_tac_toe_shelf;
+ - Replace the default shelf icon with the appropriate one: tic_tac_toe\tic_tac_toe_icons\tic_tac_toe_shelf;
  - DO NOT MOVE ANY SUBFOLDERS;
  - Have fun!
