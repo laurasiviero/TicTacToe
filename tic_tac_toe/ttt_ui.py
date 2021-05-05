@@ -1,3 +1,20 @@
+'''
+#*************************************************************************
+                            TicTacToe:
+#*************************************************************************
+Description: - This tool allows you to play tic-tac-toe on maya(python 2.7);
+             - TicTacToe ui functions.
+#*************************************************************************
+ Author: Laura Siviero
+         laura.seav@gmail.com
+ 
+ License: MIT https://github.com/laurasiviero/TicTacToe/blob/main/LICENSE
+ 
+ Date 2021.05.05
+#*************************************************************************
+'''
+
+
 import sys
 import maya.cmds as cmds
 
