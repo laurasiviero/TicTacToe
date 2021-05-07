@@ -37,6 +37,8 @@ sys.path.append(USERPATH)
 
 import ttt_ui
 
+import ttt_enemy_functions as ttt
+
 ttt_ui.tic_tac_toe_ui(USERPATH)
  
  *************************************************************************
